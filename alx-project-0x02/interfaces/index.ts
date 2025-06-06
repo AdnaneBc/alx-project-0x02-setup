@@ -20,3 +20,11 @@ export interface PostProps {
   body: string;
   userId: string | number;
 }
+
+export interface UserProps {
+  id: number;
+  name: string;
+  email: string;
+  phone: string;
+  website: string;
+}
