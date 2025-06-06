@@ -27,4 +27,5 @@ export interface UserProps {
   email: string;
   phone: string;
   website: string;
+  address: string;
 }
