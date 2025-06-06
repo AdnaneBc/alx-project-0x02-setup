@@ -1,9 +1,11 @@
 import Button from "@/components/common/Button";
+import Header from "@/components/layout/Header";
 import React from "react";
 
 const about = () => {
   return (
     <div>
+      <Header />
       <div className="space-y-4">
         <Button
           label="Small & Rounded-sm"
