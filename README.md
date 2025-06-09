@@ -1,1 +1,1 @@
-this is a readme file
+## Next.js Project Setup and Basics
